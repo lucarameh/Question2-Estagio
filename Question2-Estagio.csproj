@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Questions\First.cs" />
+    <Compile Include="Questions\Second.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
