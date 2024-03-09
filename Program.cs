@@ -9,12 +9,19 @@ namespace Question2_Estagio
         {
             First.FirstQuestion();
 
-            
-            
-            Console.WriteLine(Second.CheckFibonacci(22));
+            Second.CheckFibonacci();
+
+            Console.WriteLine("3ª Questão");
+            Third.A();            
+            Third.B();            
+            Third.C();            
+            Third.D();            
+            Third.E();            
+            Third.F();
 
             Console.WriteLine("Press any key to close the app");
             Console.ReadKey();
+
         }
     }
 }
