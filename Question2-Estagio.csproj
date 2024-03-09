@@ -44,8 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Functions\IntToExtensive.cs" />
+    <Compile Include="Functions\Next.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Questions\Fifth.cs" />
     <Compile Include="Questions\First.cs" />
     <Compile Include="Questions\Fourth.cs" />
     <Compile Include="Questions\Second.cs" />
