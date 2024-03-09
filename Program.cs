@@ -19,6 +19,9 @@ namespace Question2_Estagio
             Third.E();            
             Third.F();
 
+            new Fourth();
+            
+
             Console.WriteLine("Press any key to close the app");
             Console.ReadKey();
 
